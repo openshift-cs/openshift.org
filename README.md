@@ -6,7 +6,7 @@ This repo contains the sources for the [OpenShift.org](https://www.openshift.org
 
 ## Development
 
-**Note** (`Node.js` is a required dependency)[http://stackoverflow.com/a/6283074/6758654] on Linux machines
+**Note** [`Node.js` is a required dependency](http://stackoverflow.com/a/6283074/6758654) on Linux machines
 
 Firstly install the necessary packages on your machine:
 
